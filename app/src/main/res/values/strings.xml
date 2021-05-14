@@ -9,4 +9,5 @@
 
     <string name="hello_first_fragment">Lenochka gavnyuchka!</string>
     <string name="hello_second_fragment">Hello Lenochka. Arg: %1$s</string>
+
 </resources>
