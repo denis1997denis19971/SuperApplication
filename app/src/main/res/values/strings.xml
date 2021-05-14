@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accounting manager</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Users</string>
+    <string name="second_fragment_label">Accounts</string>
+    <string name="next">Users</string>
+    <string name="previous">Accounts</string>
+
+    <string name="hello_first_fragment">Lenochka gavnyuchka!</string>
+    <string name="hello_second_fragment">Hello Lenochka. Arg: %1$s</string>
+</resources>
